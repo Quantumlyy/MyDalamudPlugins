@@ -1,0 +1,31 @@
+{
+  "Author": "refrakts (fork of Anomek's AnoMech)",
+  "Name": "SevMech",
+  "InternalName": "AnoMech",
+  "AssemblyVersion": "0.6.0.0",
+  "MinimumDalamudVersion": "15.0.3.5",
+  "Description": "Fork of AnoMech that spawns fake party members and bosses client-side so you can practice raid mechanics without a full party. Everything from AnoMech, plus more fights and strats. Only one of AnoMech and SevMech can be installed at a time.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Quantumlyy/SevMech",
+  "Tags": [
+    "top",
+    "fru",
+    "umad",
+    "dmu",
+    "kefka",
+    "omega",
+    "protocol",
+    "ultimate",
+    "practice",
+    "simulator"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Quantumlyy/SevMech/master/images/icon.png",
+  "Punchline": "Severe Mechanics: an FFXIV mechanics simulator forked from AnoMech. Go to an inn and start practice.",
+  "AcceptsFeedback": true,
+  "ReleasesRepo": "Quantumlyy/SevMech"
+}
